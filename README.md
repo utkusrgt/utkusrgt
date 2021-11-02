@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript.
 - 📫 You can reach me from this platforms;
   usurgit@gmail.com
+ 
   https://www.linkedin.com/in/utku-surgit-638b43204/
 
 <!---
